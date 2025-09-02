@@ -52,7 +52,7 @@ const socialLinks = [
 const FooterSection = () => {
   return (
     <section className=" bg-gradient-to-tr from-background bg-neutral-900 rounded-t-4xl py-16  text-white md:py-24 lg:py-32">
-      <div className="container">
+      <div className="container mx-auto">
         <footer>
           <div className="mb-16 rounded-2xl bg-primary-foreground/5 p-8 backdrop-blur-sm md:p-12 lg:p-16">
             <div className="flex flex-col items-center text-center">

@@ -28,7 +28,7 @@ const StatsSection = () => {
       {/* Background blur gradient */}
       <div className="absolute inset-0 gradient-blur" />
 
-      <div className="container relative z-10">
+      <div className="container mx-auto relative z-10">
         <div className="mx-auto max-w-3xl text-center">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
